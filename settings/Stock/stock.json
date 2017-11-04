@@ -1,0 +1,1554 @@
+{
+  "__Example__": {
+    "instock": 0,
+    "stocklimit": 0
+  },
+  "Scrap Metal": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Reclaimed Metal": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Refined Metal": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Tour of Duty Ticket": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Mann Co. Supply Crate Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Robo Community Crate Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Summer Appetizer Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Red Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Orange Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Yellow Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Green Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Aqua Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Blue Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Brown Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Black Summer 2013 Cooler Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Fall 2013 Acorns Crate Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Fall 2013 Gourd Crate Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Mann Co. Strongbox Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Mann Co. Stockpile Crate Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "End of the Line Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Gun Mettle Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Gun Mettle Cosmetic Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Invasion Community Update Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Gargoyle Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Tough Break Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Tough Break Cosmetic Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Mayflower Cosmetic Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Creepy Crawly Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Rainy Day Cosmetic Key": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Reinforced Robot Humor Suppression Pump": {
+    "instock": 1,
+    "stocklimit": 100
+  },
+  "Reinforced Robot Emotion Detector": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "Reinforced Robot Bomb Stabilizer": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "Battle-Worn Robot Taunt Processor": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "Battle-Worn Robot KB-808": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "Battle-Worn Robot Money Furnace": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "Pristine Robot Brainstorm Bulb": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "Pristine Robot Currency Digester": {
+    "instock": 0,
+    "stocklimit": 100
+  },
+  "The Short Circuit": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Kritzkrieg": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Red-Tape Recorder": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Bootlegger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Concheror": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Family Business": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Direct Hit": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Direct Hit": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Quickiebomb Launcher ": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Quickiebomb Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Amputator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Amputator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Air Strike": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Air Strike": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Ali Baba's Wee Booties": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Ali Baba's Wee Booties": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Apoco-Fists": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Atomizer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Atomizer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Axtinguisher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Axtinguisher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The B.A.S.E. Jumper": {
+    "instock": 1,
+    "stocklimit": 200
+  },
+  "Non-Craftable B.A.S.E. Jumper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Baby Face's Blaster": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Baby Face's Blaster": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Back Scatter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-CraftableBack Scatter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Back Scratcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Back Scratcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Backburner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Backburner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Bat Outta Hell": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bat Outta Hell": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Batsaber": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Batsaber": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Battalion's Backup": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Battalion's Backup": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Bazaar Bargain": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bazaar Bargain": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Beggar's Bazooka": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Beggar's Bazooka": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Big Earner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Big Earner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Black Rose": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Black Rose": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Black Box": {
+    "instock": 2,
+    "stocklimit": 200
+  },
+  "Non-Craftable Black Box": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Bonesaw": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bonesaw": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Bonk! Atomic Punch": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bonk! Atomic Punch": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Boston Basher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Boston Basher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Bottle": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bottle": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Bat": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bat": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Brass Beast": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Brass Beast": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Bread Bite": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bread Bite": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Buff Banner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Buff Banner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Buffalo Steak Sandvich": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Buffalo Steak Sandvich": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Bushwacka": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Bushwacka": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The C.A.P.P.E.R": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable C.A.P.P.E.R": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Candy Cane": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Candy Cane": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Claidheamh Mòr": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Claidheamh Mòr": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Classic": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Classic": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Cleaner's Carbine": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Cleaner's Carbine": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Conniver's Kunai": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Conniver's Kunai": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Conscientious Objector": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Conscientious Objector": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Cow Mangler 5000": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Cow Mangler 5000": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Cozy Camper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Cozy Camper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Crit-a-Cola": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Crit-a-Cola": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Crossing Guard": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Crossing Guard": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Dalokohs Bar": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Dalokohs Bar": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Darwin's Danger Shield": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Darwin's Danger Shield": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Dead Ringer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Dead Ringer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Degreaser": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Degreaser": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Detonator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Detonator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Diamondback": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Diamondback": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Disciplinary Action": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Disciplinary Action": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Enforcer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Enforcer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Equalizer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Equalizer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Escape Plan": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Escape Plan": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Eureka Effect": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Eureka Effect": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Eviction Notice": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Eviction Notice": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Eyelander": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Eyelander": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Fan O'War": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Fan O'War": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Fire Axe": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Fire Axe": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Fishcake": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Fishcake": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Fists": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Fists": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Fists of Steel": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Fists of Steel": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Flame Thrower": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Flame Thrower": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Flare Gun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Flare Gun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Flying Guillotine": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Flying Guillotine": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Force-A-Nature": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Force-A-Nature": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Fortified Compound": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Fortified Compound": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Freedom Staff": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Freedom Staff": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Frontier Justice": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Frontier Justice": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Frying Pan": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Frying Pan": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Giger Counter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Giger Counter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Gloves of Running Urgently": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Gloves of Running Urgently": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Grenade Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Grenade Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Gunboats": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Gunboats": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Gunslinger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Gunslinger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Half-Zatoichi": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Half-Zatoichi": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Ham Shank": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Ham Shank": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Hitman's Heatmaker": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Hitman's Heatmaker": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Holiday Punch": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Holiday Punch": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Holy Mackerel": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Holy Mackerel": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Homewrecker": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Homewrecker": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Huntsman": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Huntsman": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Huo-Long Heater": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Huo-Long Heater": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Invis Watch": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Invis Watch": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Iron Fist": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Iron Fist": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Iron Bomber": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Iron Bomber": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Jag": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Jag": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Jarate": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Jarate": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Killing Gloves of Boxing": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Killing Gloves of Boxing": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Knife": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Knife": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Kukri": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Kukri": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The L'Etranger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable L'Etranger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Liberty Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Liberty Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Loch-n-Load": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Loch-n-Load": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Lollichop": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Lollichop": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Loose Cannon": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Loose Cannon": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Vintage Lugermorph": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Vintage Lugermorph": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Machina": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Machina": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Mad Milk": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Mad Milk": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Manmelter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Manmelter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Mantreads": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Mantreads": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Market Gardener": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Market Gardener": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Maul": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Maul": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Medi Gun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Medi Gun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Minigun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Minigun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Mutated Milk": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Mutated Milk": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Natascha": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Natascha": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Neon Annihilator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Neon Annihilator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Nessie's Nine Iron": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Nessie's Nine Iron": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Nostromo Napalmer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Nostromo Napalmer": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Original": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Original": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Overdose": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Overdose": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Pain Train": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Pain Train": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Panic Attack": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Panic Attack": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Persian Persuader": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Persian Persuader": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Phlogistinator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Phlogistinator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Pistol": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Pistol": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Pomson 6000": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Pomson 6000": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Postal Pummeler": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Postal Pummeler": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Powerjack": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Powerjack": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Pretty Boy's Pocket Pistol": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Pretty Boy's Pocket Pistol": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Quick-Fix": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Quick-Fix": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Quickiebomb Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Quäckenbirdt": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Quäckenbirdt": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Rainblower": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Rainblower": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Razorback": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Razorback": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Rescue Ranger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Rescue Ranger": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Reserve Shooter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Reserve Shooter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Revolver": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Revolver": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Righteous Bison": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Righteous Bison": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Genuine Robo-Sandvich": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Genuine Non-Craftable Robo-Sandvich": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Rocket Jumper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Rocket Jumper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Rocket Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Rocket Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "SMG": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable SMG": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Sandman": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sandman": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Sandvich": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sandvich": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Sapper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sapper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Scattergun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Scattergun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Scorch Shot": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Scorch Shot": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Scotsman's Skullcutter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Scotsman's Skullcutter": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Scottish Handshake": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Scottish Handshake": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Scottish Resistance": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Scottish Resistance": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Self-Aware Beauty Mark": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Self-Aware Beauty Mark": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Shahanshah": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Shahanshah": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Sharp Dresser": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sharp Dresser": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Sharpened Volcano Fragment": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sharpened Volcano Fragment": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Shooting Star": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Shooting Star": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Shortstop": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Shortstop": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Shotgun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Shotgun": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Shovel": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Shovel": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Sniper Rifle": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sniper Rifle": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Soda Popper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Soda Popper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Solemn Vow": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Solemn Vow": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Southern Hospitality": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Southern Hospitality": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Spy-cicle": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Spy-cicle": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Stickybomb Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Stickybomb Launcher": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Sun-on-a-Stick": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sun-on-a-Stick": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Sydney Sleeper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Sydney Sleeper": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Third Degree": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Third Degree": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Three-Rune Blade": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Three-Rune Blade": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Tide Turner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Tide Turner": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Tomislav": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Tomislav": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Tribalman's Shiv": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Tribalman's Shiv": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Ubersaw": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Ubersaw": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Ullapool Caber": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Ullapool Caber": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Unarmed Combat": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Unarmed Combat": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Vaccinator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Vaccinator": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Vita-Saw": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Vita-Saw": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Wanga Prick": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Wanga Prick": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Warrior's Spirit": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Warrior's Spirit": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Widowmaker": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Widowmaker": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Wrangler": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Wrangler": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Wrap Assassin": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Wrap Assassin": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Wrench": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Wrench": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "The Your Eternal Reward": {
+    "instock": 0,
+    "stocklimit": 200
+  },
+  "Non-Craftable Your Eternal Reward": {
+    "instock": 0,
+    "stocklimit": 200
+  }
+}
