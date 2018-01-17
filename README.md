@@ -1,4 +1,4 @@
-# Steam-Node-Bot v2.4
+# Steam-Node-Bot v1.5
 
 1. Unpack the files to your Desktop or where ever you want it
 
@@ -8,14 +8,11 @@
     a. cd Directory of files 
     b. npm install mathjs
     c. npm install steam-user
+    d. npm install steam
     e. npm install steam-totp
     f. npm install steam-tradeoffer-manager
-    g. npm install raven
-    h. npm install steamid
-    i. npm install colors
-    j. npm install jsonfile
-    k. npm install steamcommunity
-    
+    e. npm install raven
+    g. npm install tf2
 
 
 4. go to the setting folder
@@ -26,26 +23,17 @@ Username = Bot Username
 Password = Bot Password
 Sharedsecret = Shared Secret from desktop authenticator
 Identity Secret = Identity Secret from Desktop Authenticator
-
 OwnerID = Bot owner ID64
-
-SteamName = Desired Steam Name for the Bot
-
-GroupLink = Your Group Link Here
-
-Comments = Enables and Disables Comments on user Profiles
-
-IssueTracking =  Enable/Disables Issue Tracking 
+"GroupLink": "Your Group Link HEre",
+"Comments": "Enable", Enables and Disables Comments on user Profiles
+"IssueTracking": "Enable", Enable/Disables Issue Tracking 
 NOTE if Disabled might be hard to help if you encounter a problem with the code
-
-GroupID = GroupId here
-
-Hatbanking =  Enables/disable Hat Banking 
-KeyBanking = Enables/disables Key banking
-RobopartBanking = Enables/disables robo part banking
-
-Group = Group Name Here
-chats = Enables manual chats for the bot to communitcate to other users with chat messages
+"GroupID": "GroupId here",
+"Hatbanking": "Enable", Enables/disable Hat Banking 
+"KeyBanking": "Disable",Enables/disables Key banking
+NOTE: try to have only one Enabled ATM havent tested it with them both enabled
+"Group" : "Group Name Here",
+"chats": "true" //Enables manual chats for the bot to communitcate to other users with chat messages
 
 6. go to GamesPlayed.json and make sure the games are set correctly
 
@@ -84,33 +72,19 @@ make sure the messages are right for the items
 13. Go to Settings/Comments/comments.json Edit them if needed
 NOTE: Comments are currently set to only comment after a trade success not if it was cancelled or declined
 
-14. Go to the where the app.js is the go to the folder Admin Options
+14. Go to Settings/config.json
+Edit anything that u do or dont want to be enabled
 
-15. Got to AdminConfig.json and Change The Following to Your Personal Preeference
+15. Make a new text file
 
- AdminID = you Main SteamID
- 
- AdminChat = Enables / Disables Admin Chats //Note Not Currently Used To Be Added
- 
- AdminPrices = Enables / Disables Admin Prices //Note Not Currently Used To Be Added
- 
- disableAdminComments = Enables / Disables bot Comments for Admin Commnets
+16 .Name it Run Bot.bat
 
-16. Admin Messages Currently Not USed
-
-17. Make a new text file
-
-18 .Name it Run Bot.bat
-
-19. Edit it and put the following code: node bot.js press ENTER  type pause
+17. Edit it and put the following code: node bot.js press ENTER  type pause
 it will look like this 
 
 node bot.js
 pause
 
-20. Run the Run Bot.bat to run the bot
-
-If you want to Try the Developer Options Out
-open the Developer options Readme in Developer Options Folder
+18. Run the Run Bot.bat to run the bot
 
 HAVE ANY PROBLEMS POST YOUR PROBLEM HERE ON THE GITHUB REPO OR USE OUR STEAM GROUP steamcommunity.com/groups/MarketWH

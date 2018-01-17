@@ -1,28 +1,44 @@
 {
   "name": "package.json",
-  "version": "2.5.0",
+  "version": "1.5.0",
   "description": "1. Unpack the files to your Desktop or where ever you want it",
   "main": "app.js",
   "dependencies": {
-    "colors": "^1.1.2",
-    "fs": "^0.0.1-security",
-    "jsonfile": "^4.0.0",
-    "mathjs": "^3.16.4",
+    "backpacktf": "^0.2.2",
+    "fs": "0.0.1-security",
+    "mathjs": "^3.16.2",
+    "mysql": "^2.14.1",
+    "node-steam-trade": "^0.0.2",
+    "random-org": "^0.1.6",
+    "raven": "^2.1.2",
     "steam-totp": "^2.0.1",
-    "steam-user": "^3.23.2",
+    "steam-trade": "^0.2.6",
     "steam-tradeoffer-manager": "^2.9.0",
-    "steamcommunity": "^3.32.3"
+    "steam-user": "^3.22.0",
+    "steamcommunity": "^3.32.2",
+    "steamid": "^1.1.0",
+    "tf2": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm Start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lonster_Monster/Steam-Trade-Node-Bot.git"
   },
+  "keywords": [
+    "Steam",
+    "Trade",
+    "Bot",
+    "Lonster_Monster",
+    "Key",
+    "Banking",
+    "Hat",
+    "Automatic"
+  ],
   "author": "Lonster_Monster",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Lonster_Monster/Steam-Trade-Node-Bot/issues"
   },
