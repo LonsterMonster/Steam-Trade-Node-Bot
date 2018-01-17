@@ -12,7 +12,6 @@ const SteamCommunity = require('steamcommunity');
 const TradeOfferManager = require('steam-tradeoffer-manager');
 const Steam = require('steam');
 const math = require('mathjs');
-const mysql = require('mysql');
 const fs = require('fs');
 const version = require('.//version/version.json')
 
@@ -240,37 +239,40 @@ function processOffer(offer) {
 		var StockLimit = 0;
 		const filestockname = require('.//settings/Prices/Prices.json');
 		const filestock = require(filestockname);
-		const CurrencyStockName - require('.//settings/Prices/MEtalPrices'.json')
+		const CurrencyStockName = require('.//settings/Prices/MEtalPrices.json')
 		const CurrencyStock = require(CurrencyStockName)
 		for (var i in ourItems) {
 		var item = ourItems[i].market_name;
-			for(var i in KeysBanking[item]){
-			var KeysStock = KeysBanking[i].Stock
-			currentstock = KeysStock.instock;
-			StockLimit = KeysStock.stocklimit;
-			console.log(timestamp+"Our " +item+" - stock number: " +currentstock+ " / " +StockLimit+ ".")
-				if (currentstock < StockLimit){
-				var KeysPrice = KeysBanking[i].Prices
-					if(KeysPrice[item]) {
-					ourValue += KeysPrice.sell;
-					} else {
-						ourValue += 99999;
-						console.log("Our" + item + "was not in Prices File")
-					}
-				} else if (currentstock >= StockLimit){
-					console.log(timestamp+item +" Stock Limit Reached")
-					manager.on('receivedOfferChanged', (offer)=>{
-						if (adminConfig.disableAdminComments == "Enable") {
-							community.postUserComment(offer.partner.toString(), item+ " - Stock Limit Reached", (err)=>{
-							if(err) throw err.message
-							});
+			if (item == KeysBanking[item]){
+				for(var i in KeysBanking[item]){
+				var KeysStock = KeysBanking[i].Stock
+				currentstock = KeysStock.instock;
+				StockLimit = KeysStock.stocklimit;
+				console.log(timestamp+"Our " +item+" - stock number: " +currentstock+ " / " +StockLimit+ ".")
+					if (currentstock < StockLimit){
+					var KeysPrice = KeysBanking[i].Prices
+						if(KeysPrice[item]) {
+						ourValue += KeysPrice.sell;
+						} else {
+							ourValue += 99999;
+							console.log("Our" + item + "was not in Prices File")
 						}
-					})
-				} else {
-					console.log(timestamp+"Invalid Value.");
-					ourValue += 99999;
+					} else if (currentstock >= StockLimit){
+						console.log(timestamp+item +" Stock Limit Reached")
+						manager.on('receivedOfferChanged', (offer)=>{
+							if (adminConfig.disableAdminComments == "Enable") {
+								community.postUserComment(offer.partner.toString(), item+ " - Stock Limit Reached", (err)=>{
+								if(err) throw err.message
+								});
+							}
+						})
+					} else {
+						console.log(timestamp+"Invalid Value.");
+						ourValue += 99999;
+					}
 				}
-			} else for(var i in CurrencyStock[item]){
+			} else if(item == CurrencyStock[item]){
+				for(var i in CurrencyStock[item]){
 				currentstock = CurrencyStock.instock;
 				StockLimit = CurrencyStock.stocklimit;
 				console.log(timestamp+"Our " +item+" - stock number: " +currentstock+ " / " +StockLimit+ ".")
@@ -295,37 +297,41 @@ function processOffer(offer) {
 					console.log(timestamp+"Invalid Value.");
 					ourValue += 99999;
 				}
-			}
-		}			
+				}
+			}		
+		}		
 		for(var i in theirItems) {
 			var item = theirItems[i].market_name;
-			for(var i in KeysBanking[item]){
-			var KeysStock = KeysBanking[i].Stock
-			currentstock = KeysStock.instock;
-			StockLimit = KeysStock.stocklimit;
-			console.log(timestamp+"Our " +item+" - stock number: " +currentstock+ " / " +StockLimit+ ".")
-				if (currentstock < StockLimit){
-				var KeysPrice = KeysBanking[i].Prices
-					if(KeysPrice[item]) {
-					ourValue += KeysPrice.sell;
-					} else {
-						ourValue += 99999;
-						console.log("Our" + item + "was not in Prices File")
-					}
-				} else if (currentstock >= StockLimit){
-					console.log(timestamp+item +" Stock Limit Reached")
-					manager.on('receivedOfferChanged', (offer)=>{
-						if (adminConfig.disableAdminComments == "Enable") {
-							community.postUserComment(offer.partner.toString(), item+ " - Stock Limit Reached", (err)=>{
-							if(err) throw err.message
-							});
+			if (item == KeysBanking[item]){
+				for(var i in KeysBanking[item]){
+				var KeysStock = KeysBanking[i].Stock
+				currentstock = KeysStock.instock;
+				StockLimit = KeysStock.stocklimit;
+				console.log(timestamp+"Our " +item+" - stock number: " +currentstock+ " / " +StockLimit+ ".")
+					if (currentstock < StockLimit){
+					var KeysPrice = KeysBanking[i].Prices
+						if(KeysPrice[item]) {
+						ourValue += KeysPrice.sell;
+						} else {
+							ourValue += 99999;
+							console.log("Our" + item + "was not in Prices File")
 						}
-					})
-				} else {
-					console.log(timestamp+"Invalid Value.");
-					ourValue += 99999;
+					} else if (currentstock >= StockLimit){
+						console.log(timestamp+item +" Stock Limit Reached")
+						manager.on('receivedOfferChanged', (offer)=>{
+							if (adminConfig.disableAdminComments == "Enable") {
+								community.postUserComment(offer.partner.toString(), item+ " - Stock Limit Reached", (err)=>{
+								if(err) throw err.message
+								});
+							}
+						})
+					} else {
+						console.log(timestamp+"Invalid Value.");
+						ourValue += 99999;
+					}
 				}
-			} else for(var i in CurrencyStock[item]){
+			} else if (item == CurrencyStock[item]){ 
+				for(var i in CurrencyStock[item]){
 				currentstock = CurrencyStock.instock;
 				StockLimit = CurrencyStock.stocklimit;
 				console.log(timestamp+"Our " +item+" - stock number: " +currentstock+ " / " +StockLimit+ ".")
@@ -350,7 +356,8 @@ function processOffer(offer) {
 					console.log(timestamp+"Invalid Value.");
 					ourValue += 99999;
 				}
-			}	
+				}	
+			}
 		}
 		console.log("Our value: "+ourValue);
 		console.log("Their value: "+theirValue);
