@@ -88,7 +88,7 @@ client.on("friendMessage", function(steamID, message) {
 		client.chatMessage(steamID, messages.help);
     }
     if (message == "!Group") {
-		processOffer(offer);;
+		client.chatMessage(steamID, messages.group);
     }
 	if (message == "!Mann Co. Supply Crate Key") {
 		if (config.KeyBanking == "True" || "true" || "Enable" || "enable"){
